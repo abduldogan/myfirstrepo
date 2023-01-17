@@ -1,0 +1,15 @@
+.my-first-div {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-first-p {
+    color: red;
+    width: 200px;
+    border: 1px solid black;
+    height: 300px;
+    text-align: center;
+}
